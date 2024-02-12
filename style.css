@@ -60,12 +60,14 @@ header {
 .recipe-images {
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 .recipe-images img {
     width: 200px;
     height: 200px;
     margin: 0 10px;
+    display: inline-block;
 }
 
 footer {
